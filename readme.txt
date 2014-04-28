@@ -5,7 +5,7 @@ License: GPLv3
 Tags: facebook, like, facebook like, like button, facebook like button, share, facebook share, share button, facebook share button, post, pages, page, wordpress
 Requires at least: 3.1
 Tested up to: 3.9
-Stable tag: 1.1
+Stable tag: 1.1.1
 
 Insert the Facebook Like and/or Send button to any post, page or template with this simple plugin. Also lets you add them via shortcode anywhere in your site!
 
@@ -35,6 +35,9 @@ This section describes how to install the plugin and get it working.
 
 == Changelog ==
 
+= 1.1.1 =
+
+* Fixed error in options page
 
 = 1.1 =
 

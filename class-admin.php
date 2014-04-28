@@ -32,7 +32,7 @@ function fbls_init(){
 
 add_action('admin_menu', 'show_fbls_options');
 function show_fbls_options() {
-	add_options_page('Facebook Like & Send Options', 'Facebook Like & Send', 'manage_options', 'fblikesend', 'fblikesend_options');
+	add_options_page('Facebook Like & Send Options', 'Facebook Like & Send', 'manage_options', 'fblikesend', 'fbls_options');
 }
 
 
