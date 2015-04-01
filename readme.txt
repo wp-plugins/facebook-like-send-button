@@ -4,8 +4,8 @@ Donate link:  http://peadig.com/go/facebook-comments-paypal/
 License: GPLv3
 Tags: facebook, like, facebook like, like button, facebook like button, share, facebook share, share button, facebook share button, post, pages, page, wordpress
 Requires at least: 3.1
-Tested up to: 3.9
-Stable tag: 1.1.1
+Tested up to: 4.1.1
+Stable tag: 1.1.2
 
 Insert the Facebook Like and/or Send button to any post, page or template with this simple plugin. Also lets you add them via shortcode anywhere in your site!
 
@@ -34,6 +34,10 @@ This section describes how to install the plugin and get it working.
 4. Go through the steps and hit update!
 
 == Changelog ==
+
+= 1.1.2 =
+
+* Updated to SDK v2.3
 
 = 1.1.1 =
 
