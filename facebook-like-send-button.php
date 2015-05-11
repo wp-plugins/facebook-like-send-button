@@ -3,7 +3,7 @@
 Plugin Name:  Facebook Like & Share Button
 Plugin URI:   http://peadig.com/wordpress-plugins/facebook-like-share-button/
 Description:  Insert the Facebook Like and/or Share button to any post, page or template with this simple plugin. Also lets you add them via shortcode anywhere in your site!
-Version:      1.1.2
+Version:      1.1.3
 Author: Alex Moss
 Author URI: http://peadig.com/people/alex-moss/
 License: GPL v3
@@ -27,7 +27,7 @@ else
 
 // Add settings link on plugin page
 function fbls_link($links) {
-  $settings_link = '<a href="options-general.php?page=fbcomments">Settings</a>';
+  $settings_link = '<a href="options-general.php?page=fbls">Settings</a>';
   array_unshift($links, $settings_link);
   return $links;
 }
